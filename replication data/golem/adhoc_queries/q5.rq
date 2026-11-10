@@ -1,0 +1,8 @@
+# q5: Works in the fandom 'Original Work' per romantic category, with mean kudos.
+# Result: ../adhoc_results/q5.csv
+PREFIX golem: <https://golemlab.eu/graph/>
+SELECT ?cat (COUNT(DISTINCT ?s) AS ?works) (AVG(?k) AS ?meanKudos) WHERE {
+  ?s golem:fandom "Original Work" ; golem:romanticCategory ?cat .
+  OPTIONAL { ?s golem:numberOfKudos ?k }
+}
+GROUP BY ?cat

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+golem/golem_results/
+sappho_ao3/data/sappho_ao3_metadata_all_works.csv

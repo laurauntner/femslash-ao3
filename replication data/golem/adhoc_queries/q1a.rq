@@ -1,0 +1,8 @@
+# q1a: F/F works per publication year.
+# Result: ../adhoc_results/q1a.csv
+PREFIX golem: <https://golemlab.eu/graph/>
+SELECT ?year (COUNT(DISTINCT ?s) AS ?ff) WHERE {
+  ?s golem:romanticCategory "F/F" ; golem:datePublished ?d .
+  BIND(SUBSTR(STR(?d),1,4) AS ?year)
+}
+GROUP BY ?year ORDER BY ?year

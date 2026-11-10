@@ -1,0 +1,8 @@
+# q0d: Category values in a sample of 5,000 works (checks whether works carry several categories).
+# Result: ../adhoc_results/q0d.csv
+PREFIX golem: <https://golemlab.eu/graph/>
+SELECT ?cat (COUNT(*) AS ?n) WHERE {
+  { SELECT ?s WHERE { ?s golem:fandom "Good Omens (TV)" . } LIMIT 5000 }
+  ?s golem:romanticCategory ?cat .
+}
+GROUP BY ?cat ORDER BY DESC(?n)

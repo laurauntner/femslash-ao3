@@ -1,0 +1,12 @@
+# T4_topauthors_lesbian_2022: top 25 (anonymised) authors of this family in this year.
+# Purpose: concentration of a family in few authors (RQ2). Used in: concentration_2020_22.csv.
+PREFIX golem: <https://golemlab.eu/graph/>
+SELECT ?x (COUNT(DISTINCT ?s) AS ?n) WHERE {
+  ?s golem:romanticCategory "F/F" ; golem:datePublished ?d .
+  FILTER(STRSTARTS(STR(?d), "2022"))
+  ?s golem:keyword ?kw .
+  BIND(LCASE(STR(?kw)) AS ?k)
+  FILTER(CONTAINS(?k, "lesbian"))
+  ?s golem:author ?x .
+}
+GROUP BY ?x ORDER BY DESC(?n) LIMIT 25

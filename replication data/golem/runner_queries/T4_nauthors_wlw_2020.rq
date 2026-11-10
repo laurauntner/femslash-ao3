@@ -1,0 +1,11 @@
+# T4_nauthors_wlw_2020: works and distinct (anonymised) authors of this family in this year.
+# Purpose: concentration of a family in few authors (RQ2). Used in: concentration_2020_22.csv.
+PREFIX golem: <https://golemlab.eu/graph/>
+SELECT (COUNT(DISTINCT ?s) AS ?works) (COUNT(DISTINCT ?x) AS ?distinct_author) WHERE {
+  ?s golem:romanticCategory "F/F" ; golem:datePublished ?d .
+  FILTER(STRSTARTS(STR(?d), "2020"))
+  ?s golem:keyword ?kw .
+  BIND(LCASE(STR(?kw)) AS ?k)
+  FILTER(REGEX(?k, "(^|[^a-z])wlw([^a-z]|$)") || CONTAINS(?k, "women loving women"))
+  OPTIONAL { ?s golem:author ?x }
+}

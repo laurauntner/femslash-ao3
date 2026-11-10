@@ -1,0 +1,32 @@
+family,type,variants,tag_uses,pct_of_family_uses
+baihe,generic label,2,30,71.42857142857143
+baihe,other descriptive compound,11,12,28.57142857142857
+femslash,event / community,61,1208,49.56914238818219
+femslash,generic label,1,1053,43.208863356585965
+femslash,implied / pre-relationship / background,7,112,4.5958145260566265
+femslash,other descriptive compound,43,54,2.215839146491588
+femslash,sexual content,5,10,0.4103405826836274
+lesbian,generic label,16,6285,34.94578815679733
+lesbian,identity ascribed to a character,820,4600,25.57686961356686
+lesbian,sexual content,54,3521,19.577425632471503
+lesbian,other descriptive compound,2248,2789,15.507367250486517
+lesbian,trope / meme / AU,128,744,4.136780650542119
+lesbian,event / community,30,30,0.16680567139282734
+lesbian,implied / pre-relationship / background,7,11,0.06116207951070336
+lesbian,possible false hit (negation),5,5,0.027800945232137893
+sapphic,other descriptive compound,292,368,38.81856540084388
+sapphic,generic label,3,306,32.278481012658226
+sapphic,event / community,16,181,19.09282700421941
+sapphic,identity ascribed to a character,52,74,7.805907172995781
+sapphic,sexual content,4,9,0.949367088607595
+sapphic,trope / meme / AU,6,6,0.6329113924050633
+sapphic,implied / pre-relationship / background,3,3,0.31645569620253167
+sapphic,possible false hit (metre),1,1,0.10548523206751054
+wlw,generic label,3,923,70.24353120243532
+wlw,other descriptive compound,224,297,22.602739726027394
+wlw,event / community,16,51,3.881278538812785
+wlw,sexual content,11,18,1.36986301369863
+wlw,identity ascribed to a character,10,16,1.21765601217656
+wlw,trope / meme / AU,8,8,0.60882800608828
+wlw,implied / pre-relationship / background,1,1,0.076103500761035
+yuri,generic label,1,632,100.0

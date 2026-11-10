@@ -1,0 +1,11 @@
+# T4_nfandoms_lesbian_2022: works and distinct fandoms of this family in this year.
+# Purpose: spread of a family across fandoms (RQ2). Used in: concentration_2020_22.csv.
+PREFIX golem: <https://golemlab.eu/graph/>
+SELECT (COUNT(DISTINCT ?s) AS ?works) (COUNT(DISTINCT ?x) AS ?distinct_fandom) WHERE {
+  ?s golem:romanticCategory "F/F" ; golem:datePublished ?d .
+  FILTER(STRSTARTS(STR(?d), "2022"))
+  ?s golem:keyword ?kw .
+  BIND(LCASE(STR(?kw)) AS ?k)
+  FILTER(CONTAINS(?k, "lesbian"))
+  OPTIONAL { ?s golem:fandom ?x }
+}

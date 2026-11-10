@@ -1,0 +1,8 @@
+# q3c: Top 30 fandoms for 'Sapphic'/'Sapphics'. Exploratory; superseded by runner task T4.
+# Result: ../adhoc_results/q3c.csv
+PREFIX golem: <https://golemlab.eu/graph/>
+SELECT ?f (COUNT(DISTINCT ?s) AS ?n) WHERE {
+  VALUES ?kw { "Sapphic" "Sapphics" }
+  ?s golem:keyword ?kw ; golem:fandom ?f .
+}
+GROUP BY ?f ORDER BY DESC(?n) LIMIT 30

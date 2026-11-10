@@ -1,0 +1,9 @@
+# q3a: Works, distinct authors and distinct fandoms for the tags 'Sapphic'/'Sapphics'. Exploratory; superseded by runner task T4.
+# Result: ../adhoc_results/q3a.csv
+PREFIX golem: <https://golemlab.eu/graph/>
+SELECT (COUNT(DISTINCT ?s) AS ?works) (COUNT(DISTINCT ?a) AS ?authors) (COUNT(DISTINCT ?f) AS ?fandoms) WHERE {
+  VALUES ?kw { "Sapphic" "Sapphics" }
+  ?s golem:keyword ?kw .
+  OPTIONAL { ?s golem:author ?a }
+  OPTIONAL { ?s golem:fandom ?f }
+}

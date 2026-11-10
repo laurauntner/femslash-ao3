@@ -1,0 +1,11 @@
+# q4: Co-tags of 'Sapphic'/'Sapphics' works in 2021. Exploratory; superseded by runner task T3.
+# Result: ../adhoc_results/q4.csv
+PREFIX golem: <https://golemlab.eu/graph/>
+SELECT ?co (COUNT(DISTINCT ?s) AS ?n) WHERE {
+  VALUES ?kw { "Sapphic" "Sapphics" }
+  ?s golem:keyword ?kw ; golem:datePublished ?d .
+  FILTER(STRSTARTS(STR(?d), "2021"))
+  ?s golem:keyword ?co .
+  FILTER(?co != ?kw)
+}
+GROUP BY ?co HAVING (COUNT(DISTINCT ?s) >= 3) ORDER BY DESC(?n)

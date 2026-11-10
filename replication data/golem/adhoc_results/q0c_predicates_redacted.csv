@@ -1,0 +1,144 @@
+work,predicate,example_value
+work_1,golem:numberOfComments,16
+work_2,golem:numberOfComments,10
+work_1,golem:numberOfKudos,45
+work_2,golem:numberOfKudos,27
+work_1,golem:publicationStatus,Completed
+work_2,golem:publicationStatus,In-Progress
+work_1,golem:dateModified,2021-02-07
+work_2,golem:dateModified,2022-04-22
+work_1,golem:author,[redacted]
+work_2,golem:author,[redacted]
+work_1,golem:author_url,[redacted]
+work_2,golem:author_url,[redacted]
+work_1,golem:category,Good Omens (TV)
+work_1,golem:category,Harry Potter - J. K. Rowling
+work_2,golem:category,Good Omens (TV)
+work_2,golem:category,Good Omens - Neil Gaiman & Terry Pratchett
+work_2,golem:category,Harry Potter - J. K. Rowling
+work_2,golem:category,Jessica Jones (TV)
+work_2,golem:category,Doctor Who
+work_2,golem:category,Multi-Fandom
+work_2,golem:category,Underworld (Movies)
+work_1,golem:characters,Crowley (Good Omens)
+work_1,golem:characters,Hermione Granger
+work_1,golem:characters,Aziraphale (Good Omens)
+work_2,golem:characters,Castiel (Supernatural)
+work_2,golem:characters,Crowley
+work_2,golem:characters,Crowley (Good Omens)
+work_2,golem:characters,Dean Winchester
+work_2,golem:characters,Gabriel (Supernatural)
+work_2,golem:characters,John Constantine
+work_2,golem:characters,Lucifer Morningstar (Lucifer TV)
+work_2,golem:characters,Sam Winchester
+work_2,golem:characters,Tenth Doctor
+work_2,golem:characters,Zebediah Killgrave
+work_2,golem:characters,Aziraphale (Good Omens)
+work_2,golem:characters,Bartemius Crouch Jr.
+work_2,golem:characters,Other(s)
+work_2,golem:characters,Lucian (Underworld)
+work_1,golem:collections,[redacted]
+work_2,golem:collections,[redacted]
+work_1,golem:fandom,Good Omens (TV)
+work_1,golem:fandom,Harry Potter - J. K. Rowling
+work_2,golem:fandom,Good Omens (TV)
+work_2,golem:fandom,Good Omens - Neil Gaiman & Terry Pratchett
+work_2,golem:fandom,Harry Potter - J. K. Rowling
+work_2,golem:fandom,Jessica Jones (TV)
+work_2,golem:fandom,Doctor Who
+work_2,golem:fandom,Multi-Fandom
+work_2,golem:fandom,Underworld (Movies)
+work_1,golem:genre,Alternate Universe - Modern with Magic
+work_1,golem:genre,F/M
+work_1,golem:genre,Hermione Granger-centric
+work_1,golem:genre,Pining
+work_1,golem:genre,Romantic Fluff
+work_1,golem:genre,POV Hermione Granger
+work_1,golem:genre,Adult Hermione Granger
+work_1,golem:genre,St James's Park (Good Omens)
+work_1,golem:genre,Aziraphale's Bookshop (Good Omens)
+work_1,golem:genre,Dining at the Ritz (Good Omens)
+work_1,golem:genre,Crowley's Bentley (Good Omens)
+work_1,golem:genre,Facebook: Hermione's Haven
+work_1,golem:genre,Sexy Crowley (Good Omens)
+work_1,golem:genre,Thirsty Hermione
+work_2,golem:genre,Cute
+work_2,golem:genre,Fluff
+work_2,golem:genre,Idiots in Love
+work_2,golem:genre,M/M
+work_2,golem:genre,Mpreg
+work_2,golem:genre,Multiverse
+work_2,golem:genre,Hell
+work_2,golem:genre,Ineffable Husbands (Good Omens)
+work_2,golem:genre,Weddings
+work_2,golem:genre,Engagement
+work_2,golem:genre,Angel/Demon Relationship
+work_2,golem:genre,Demons
+work_2,golem:genre,Modern Assassins (Assassin's Creed)
+work_2,golem:genre,Angels
+work_2,golem:genre,Supernatural Hunters
+work_2,golem:genre,Ruler of Hell
+work_1,golem:language,English
+work_2,golem:language,English
+work_1,golem:local_path,[redacted]
+work_1,golem:path,[redacted]
+work_2,golem:path,[redacted]
+work_1,golem:publisher,archiveofourown.org
+work_2,golem:publisher,archiveofourown.org
+work_1,golem:rating,Teen And Up Audiences
+work_2,golem:rating,Not Rated
+work_1,golem:series,[redacted]
+work_2,golem:series,[redacted]
+work_1,golem:series_url,[redacted]
+work_2,golem:series_url,[redacted]
+work_1,golem:story_id,[redacted]
+work_2,golem:story_id,[redacted]
+work_1,golem:story_url,[redacted]
+work_2,golem:story_url,[redacted]
+work_1,golem:summary,[redacted]
+work_2,golem:summary,[redacted]
+work_1,golem:title,[redacted]
+work_2,golem:title,[redacted]
+work_1,golem:numberOfChapters,1
+work_2,golem:numberOfChapters,19
+work_1,golem:datePublished,2021-02-07
+work_2,golem:datePublished,2021-05-28
+work_1,golem:keyword,Alternate Universe - Modern with Magic
+work_1,golem:keyword,Hermione Granger-centric
+work_1,golem:keyword,Pining
+work_1,golem:keyword,Romantic Fluff
+work_1,golem:keyword,POV Hermione Granger
+work_1,golem:keyword,Adult Hermione Granger
+work_1,golem:keyword,St James's Park (Good Omens)
+work_1,golem:keyword,Aziraphale's Bookshop (Good Omens)
+work_1,golem:keyword,Dining at the Ritz (Good Omens)
+work_1,golem:keyword,Crowley's Bentley (Good Omens)
+work_1,golem:keyword,Facebook: Hermione's Haven
+work_1,golem:keyword,Sexy Crowley (Good Omens)
+work_1,golem:keyword,Thirsty Hermione
+work_2,golem:keyword,Cute
+work_2,golem:keyword,Fluff
+work_2,golem:keyword,Idiots in Love
+work_2,golem:keyword,Mpreg
+work_2,golem:keyword,Multiverse
+work_2,golem:keyword,Hell
+work_2,golem:keyword,Ineffable Husbands (Good Omens)
+work_2,golem:keyword,Weddings
+work_2,golem:keyword,Engagement
+work_2,golem:keyword,Angel/Demon Relationship
+work_2,golem:keyword,Demons
+work_2,golem:keyword,Modern Assassins (Assassin's Creed)
+work_2,golem:keyword,Angels
+work_2,golem:keyword,Supernatural Hunters
+work_2,golem:keyword,Ruler of Hell
+work_1,golem:contentWarning,No Archive Warnings Apply
+work_2,golem:contentWarning,Creator Chose Not To Use Archive Warnings
+work_2,golem:contentWarning,Graphic Depictions Of Violence
+work_1,golem:numberOfWords,3382
+work_2,golem:numberOfWords,38696
+work_1,golem:socialRelationships,[redacted]
+work_2,golem:socialRelationships,[redacted]
+work_1,golem:datePackaged,2022-04-27T20:33:43
+work_2,golem:datePackaged,2022-09-09T11:30:58
+work_1,golem:romanticCategory,F/M
+work_2,golem:romanticCategory,M/M

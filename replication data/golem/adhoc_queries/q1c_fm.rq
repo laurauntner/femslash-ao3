@@ -1,0 +1,7 @@
+# q1c_fm: F/M works for one year. Result incomplete (endpoint timeout); not used in the analysis. Shown with the template year 2015; the year used in the run was not recorded.
+# Result: ../adhoc_results/q1c_fm.csv
+PREFIX golem: <https://golemlab.eu/graph/>
+SELECT (COUNT(DISTINCT ?s) AS ?n) WHERE {
+  ?s golem:romanticCategory "F/M" ; golem:datePublished ?d .
+  FILTER(STRSTARTS(STR(?d), "2015"))
+}

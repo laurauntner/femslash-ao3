@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="497.602969pt" height="404.738969pt" viewBox="0 0 497.602969 404.738969" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 404.738969 
+L 497.602969 404.738969 
+L 497.602969 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 140.2 184.424 
+L 236.13 184.424 
+L 236.13 41.664 
+L 140.2 41.664 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 140.2 184.424 
+L 140.2 41.664 
+" clip-path="url(#pac5c005698)" style="fill: none; stroke: #e6e5e1; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="mf3db6fa41f" d="M 0 0 
+L 0 3.5 
+" style="stroke: #52514e; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mf3db6fa41f" x="140.2" y="184.424" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: middle; fill: #52514e" x="140.2" y="196.742906" transform="rotate(-0 140.2 196.742906)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 164.1825 184.424 
+L 164.1825 41.664 
+" clip-path="url(#pac5c005698)" style="fill: none; stroke: #e6e5e1; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#mf3db6fa41f" x="164.1825" y="184.424" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: middle; fill: #52514e" x="164.1825" y="196.742906" transform="rotate(-0 164.1825 196.742906)">2.5</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 188.165 184.424 
+L 188.165 41.664 
+" clip-path="url(#pac5c005698)" style="fill: none; stroke: #e6e5e1; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#mf3db6fa41f" x="188.165" y="184.424" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: middle; fill: #52514e" x="188.165" y="196.742906" transform="rotate(-0 188.165 196.742906)">5.0</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 212.1475 184.424 
+L 212.1475 41.664 
+" clip-path="url(#pac5c005698)" style="fill: none; stroke: #e6e5e1; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#mf3db6fa41f" x="212.1475" y="184.424" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: middle; fill: #52514e" x="212.1475" y="196.742906" transform="rotate(-0 212.1475 196.742906)">7.5</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 236.13 184.424 
+L 236.13 41.664 
+" clip-path="url(#pac5c005698)" style="fill: none; stroke: #e6e5e1; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#mf3db6fa41f" x="236.13" y="184.424" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: middle; fill: #52514e" x="236.13" y="196.742906" transform="rotate(-0 236.13 196.742906)">10.0</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_11">
+      <defs>
+       <path id="m157f079246" d="M 0 0 
+L -3.5 0 
+" style="stroke: #52514e; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m157f079246" x="140.2" y="172.421302" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="133.2" y="175.15674" transform="rotate(-0 133.2 175.15674)">New Dangan Ronpa V3</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m157f079246" x="140.2" y="155.456359" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="133.2" y="158.191796" transform="rotate(-0 133.2 158.191796)">Genshin Impact (Video Game)</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m157f079246" x="140.2" y="138.491415" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="133.2" y="141.226853" transform="rotate(-0 133.2 141.226853)">Star Trek: Voyager</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m157f079246" x="140.2" y="121.526472" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="133.2" y="124.261909" transform="rotate(-0 133.2 124.261909)">Fire Emblem: Three Houses</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m157f079246" x="140.2" y="104.561528" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="133.2" y="107.296966" transform="rotate(-0 133.2 107.296966)">Dangan Ronpa - All Media Types</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m157f079246" x="140.2" y="87.596585" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="133.2" y="90.332022" transform="rotate(-0 133.2 90.332022)">Original Work</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m157f079246" x="140.2" y="70.631641" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="133.2" y="73.367079" transform="rotate(-0 133.2 73.367079)">Marvel Cinematic Universe</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m157f079246" x="140.2" y="53.666698" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="133.2" y="56.402135" transform="rotate(-0 133.2 56.402135)">Harry Potter - J. K. Rowling</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 140.2 177.934909 
+L 153.908497 177.934909 
+L 153.908497 166.907696 
+L 140.2 166.907696 
+z
+" clip-path="url(#pac5c005698)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 140.2 160.969966 
+L 156.414352 160.969966 
+L 156.414352 149.942752 
+L 140.2 149.942752 
+z
+" clip-path="url(#pac5c005698)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 140.2 144.005022 
+L 156.709158 144.005022 
+L 156.709158 132.977809 
+L 140.2 132.977809 
+z
+" clip-path="url(#pac5c005698)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 140.2 127.040078 
+L 156.856561 127.040078 
+L 156.856561 116.012865 
+L 140.2 116.012865 
+z
+" clip-path="url(#pac5c005698)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 140.2 110.075135 
+L 158.18319 110.075135 
+L 158.18319 99.047922 
+L 140.2 99.047922 
+z
+" clip-path="url(#pac5c005698)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 140.2 93.110191 
+L 167.616994 93.110191 
+L 167.616994 82.082978 
+L 140.2 82.082978 
+z
+" clip-path="url(#pac5c005698)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 140.2 76.145248 
+L 171.891687 76.145248 
+L 171.891687 65.118034 
+L 140.2 65.118034 
+z
+" clip-path="url(#pac5c005698)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 140.2 59.180304 
+L 209.921712 59.180304 
+L 209.921712 48.153091 
+L 140.2 48.153091 
+z
+" clip-path="url(#pac5c005698)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 140.2 184.424 
+L 140.2 41.664 
+" style="fill: none; stroke: #52514e; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 140.2 184.424 
+L 236.13 184.424 
+" style="fill: none; stroke: #52514e; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="156.908497" y="174.352865" transform="rotate(-0 156.908497 174.352865)">1.4</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="159.414352" y="157.387921" transform="rotate(-0 159.414352 157.387921)">1.7</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="159.709158" y="140.422978" transform="rotate(-0 159.709158 140.422978)">1.7</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="159.856561" y="123.458034" transform="rotate(-0 159.856561 123.458034)">1.7</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="161.18319" y="106.493091" transform="rotate(-0 161.18319 106.493091)">1.9</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="170.616994" y="89.528147" transform="rotate(-0 170.616994 89.528147)">2.9</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="174.891687" y="72.563204" transform="rotate(-0 174.891687 72.563204)">3.3</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="212.921712" y="55.59826" transform="rotate(-0 212.921712 55.59826)">7.3</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="140.2" y="35.664" transform="rotate(-0 140.2 35.664)">‘femslash’ (n = 6,508)</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_13">
+    <path d="M 386.68 184.424 
+L 482.61 184.424 
+L 482.61 41.664 
+L 386.68 41.664 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_6">
+     <g id="line2d_19">
+      <path d="M 386.68 184.424 
+L 386.68 41.664 
+" clip-path="url(#p8e9215b7c8)" style="fill: none; stroke: #e6e5e1; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#mf3db6fa41f" x="386.68" y="184.424" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: middle; fill: #52514e" x="386.68" y="196.742906" transform="rotate(-0 386.68 196.742906)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_21">
+      <path d="M 410.6625 184.424 
+L 410.6625 41.664 
+" clip-path="url(#p8e9215b7c8)" style="fill: none; stroke: #e6e5e1; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#mf3db6fa41f" x="410.6625" y="184.424" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: middle; fill: #52514e" x="410.6625" y="196.742906" transform="rotate(-0 410.6625 196.742906)">2.5</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_23">
+      <path d="M 434.645 184.424 
+L 434.645 41.664 
+" clip-path="url(#p8e9215b7c8)" style="fill: none; stroke: #e6e5e1; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#mf3db6fa41f" x="434.645" y="184.424" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_25">
+      <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: middle; fill: #52514e" x="434.645" y="196.742906" transform="rotate(-0 434.645 196.742906)">5.0</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_25">
+      <path d="M 458.6275 184.424 
+L 458.6275 41.664 
+" clip-path="url(#p8e9215b7c8)" style="fill: none; stroke: #e6e5e1; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#mf3db6fa41f" x="458.6275" y="184.424" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: middle; fill: #52514e" x="458.6275" y="196.742906" transform="rotate(-0 458.6275 196.742906)">7.5</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_27">
+      <path d="M 482.61 184.424 
+L 482.61 41.664 
+" clip-path="url(#p8e9215b7c8)" style="fill: none; stroke: #e6e5e1; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#mf3db6fa41f" x="482.61" y="184.424" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: middle; fill: #52514e" x="482.61" y="196.742906" transform="rotate(-0 482.61 196.742906)">10.0</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_9">
+     <g id="line2d_29">
+      <g>
+       <use xlink:href="#m157f079246" x="386.68" y="172.421302" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_28">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="379.68" y="175.15674" transform="rotate(-0 379.68 175.15674)">The Owl House (Cartoon)</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#m157f079246" x="386.68" y="155.456359" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_29">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="379.68" y="158.191796" transform="rotate(-0 379.68 158.191796)">Genshin Impact (Video Game)</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_31">
+      <g>
+       <use xlink:href="#m157f079246" x="386.68" y="138.491415" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_30">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="379.68" y="141.226853" transform="rotate(-0 379.68 141.226853)">My Hero Academia</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_32">
+      <g>
+       <use xlink:href="#m157f079246" x="386.68" y="121.526472" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_31">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="379.68" y="124.261909" transform="rotate(-0 379.68 124.261909)">Marvel Cinematic Universe</text>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_33">
+      <g>
+       <use xlink:href="#m157f079246" x="386.68" y="104.561528" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_32">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="379.68" y="107.296966" transform="rotate(-0 379.68 107.296966)">Stranger Things (TV 2016)</text>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_34">
+      <g>
+       <use xlink:href="#m157f079246" x="386.68" y="87.596585" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_33">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="379.68" y="90.332022" transform="rotate(-0 379.68 90.332022)">She-Ra and the Princesses of Power</text>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_35">
+      <g>
+       <use xlink:href="#m157f079246" x="386.68" y="70.631641" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_34">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="379.68" y="73.367079" transform="rotate(-0 379.68 73.367079)">Harry Potter - J. K. Rowling</text>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_36">
+      <g>
+       <use xlink:href="#m157f079246" x="386.68" y="53.666698" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_35">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="379.68" y="56.402135" transform="rotate(-0 379.68 56.402135)">Original Work</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_14">
+    <path d="M 386.68 177.934909 
+L 406.993296 177.934909 
+L 406.993296 166.907696 
+L 386.68 166.907696 
+z
+" clip-path="url(#p8e9215b7c8)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 386.68 160.969966 
+L 410.73178 160.969966 
+L 410.73178 149.942752 
+L 386.68 149.942752 
+z
+" clip-path="url(#p8e9215b7c8)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 386.68 144.005022 
+L 413.31996 144.005022 
+L 413.31996 132.977809 
+L 386.68 132.977809 
+z
+" clip-path="url(#p8e9215b7c8)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 386.68 127.040078 
+L 413.581393 127.040078 
+L 413.581393 116.012865 
+L 386.68 116.012865 
+z
+" clip-path="url(#p8e9215b7c8)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 386.68 110.075135 
+L 420.796926 110.075135 
+L 420.796926 99.047922 
+L 386.68 99.047922 
+z
+" clip-path="url(#p8e9215b7c8)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 386.68 93.110191 
+L 423.620396 93.110191 
+L 423.620396 82.082978 
+L 386.68 82.082978 
+z
+" clip-path="url(#p8e9215b7c8)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 386.68 76.145248 
+L 435.123421 76.145248 
+L 435.123421 65.118034 
+L 386.68 65.118034 
+z
+" clip-path="url(#p8e9215b7c8)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 386.68 59.180304 
+L 449.423773 59.180304 
+L 449.423773 48.153091 
+L 386.68 48.153091 
+z
+" clip-path="url(#p8e9215b7c8)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 386.68 184.424 
+L 386.68 41.664 
+" style="fill: none; stroke: #52514e; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 386.68 184.424 
+L 482.61 184.424 
+" style="fill: none; stroke: #52514e; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="409.993296" y="174.352865" transform="rotate(-0 409.993296 174.352865)">2.1</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="413.73178" y="157.387921" transform="rotate(-0 413.73178 157.387921)">2.5</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="416.31996" y="140.422978" transform="rotate(-0 416.31996 140.422978)">2.8</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="416.581393" y="123.458034" transform="rotate(-0 416.581393 123.458034)">2.8</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="423.796926" y="106.493091" transform="rotate(-0 423.796926 106.493091)">3.6</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="426.620396" y="89.528147" transform="rotate(-0 426.620396 89.528147)">3.9</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="438.123421" y="72.563204" transform="rotate(-0 438.123421 72.563204)">5.0</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="452.423773" y="55.59826" transform="rotate(-0 452.423773 55.59826)">6.5</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="386.68" y="35.664" transform="rotate(-0 386.68 35.664)">‘lesbian’ (n = 36,694)</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_24">
+    <path d="M 140.2 364.304 
+L 236.13 364.304 
+L 236.13 221.544 
+L 140.2 221.544 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_5">
+    <g id="xtick_11">
+     <g id="line2d_37">
+      <path d="M 140.2 364.304 
+L 140.2 221.544 
+" clip-path="url(#pc5ffc674f0)" style="fill: none; stroke: #e6e5e1; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_38">
+      <g>
+       <use xlink:href="#mf3db6fa41f" x="140.2" y="364.304" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_45">
+      <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: middle; fill: #52514e" x="140.2" y="376.622906" transform="rotate(-0 140.2 376.622906)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_39">
+      <path d="M 164.1825 364.304 
+L 164.1825 221.544 
+" clip-path="url(#pc5ffc674f0)" style="fill: none; stroke: #e6e5e1; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_40">
+      <g>
+       <use xlink:href="#mf3db6fa41f" x="164.1825" y="364.304" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_46">
+      <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: middle; fill: #52514e" x="164.1825" y="376.622906" transform="rotate(-0 164.1825 376.622906)">2.5</text>
+     </g>
+    </g>
+    <g id="xtick_13">
+     <g id="line2d_41">
+      <path d="M 188.165 364.304 
+L 188.165 221.544 
+" clip-path="url(#pc5ffc674f0)" style="fill: none; stroke: #e6e5e1; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_42">
+      <g>
+       <use xlink:href="#mf3db6fa41f" x="188.165" y="364.304" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_47">
+      <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: middle; fill: #52514e" x="188.165" y="376.622906" transform="rotate(-0 188.165 376.622906)">5.0</text>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="line2d_43">
+      <path d="M 212.1475 364.304 
+L 212.1475 221.544 
+" clip-path="url(#pc5ffc674f0)" style="fill: none; stroke: #e6e5e1; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_44">
+      <g>
+       <use xlink:href="#mf3db6fa41f" x="212.1475" y="364.304" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_48">
+      <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: middle; fill: #52514e" x="212.1475" y="376.622906" transform="rotate(-0 212.1475 376.622906)">7.5</text>
+     </g>
+    </g>
+    <g id="xtick_15">
+     <g id="line2d_45">
+      <path d="M 236.13 364.304 
+L 236.13 221.544 
+" clip-path="url(#pc5ffc674f0)" style="fill: none; stroke: #e6e5e1; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_46">
+      <g>
+       <use xlink:href="#mf3db6fa41f" x="236.13" y="364.304" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_49">
+      <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: middle; fill: #52514e" x="236.13" y="376.622906" transform="rotate(-0 236.13 376.622906)">10.0</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_6">
+    <g id="ytick_17">
+     <g id="line2d_47">
+      <g>
+       <use xlink:href="#m157f079246" x="140.2" y="352.301302" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_50">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="133.2" y="355.03674" transform="rotate(-0 133.2 355.03674)">Shingeki no Kyojin</text>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_48">
+      <g>
+       <use xlink:href="#m157f079246" x="140.2" y="335.336359" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_51">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="133.2" y="338.215796" transform="rotate(-0 133.2 338.215796)">Módào Zǔshī - Mòxiāng Tóngxiù</text>
+     </g>
+    </g>
+    <g id="ytick_19">
+     <g id="line2d_49">
+      <g>
+       <use xlink:href="#m157f079246" x="140.2" y="318.371415" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_52">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="133.2" y="321.106853" transform="rotate(-0 133.2 321.106853)">The Untamed (TV)</text>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="line2d_50">
+      <g>
+       <use xlink:href="#m157f079246" x="140.2" y="301.406472" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_53">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="133.2" y="304.141909" transform="rotate(-0 133.2 304.141909)">Genshin Impact (Video Game)</text>
+     </g>
+    </g>
+    <g id="ytick_21">
+     <g id="line2d_51">
+      <g>
+       <use xlink:href="#m157f079246" x="140.2" y="284.441528" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_54">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="133.2" y="287.176966" transform="rotate(-0 133.2 287.176966)">Stranger Things (TV 2016)</text>
+     </g>
+    </g>
+    <g id="ytick_22">
+     <g id="line2d_52">
+      <g>
+       <use xlink:href="#m157f079246" x="140.2" y="267.476585" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_55">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="133.2" y="270.212022" transform="rotate(-0 133.2 270.212022)">My Hero Academia</text>
+     </g>
+    </g>
+    <g id="ytick_23">
+     <g id="line2d_53">
+      <g>
+       <use xlink:href="#m157f079246" x="140.2" y="250.511641" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_56">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="133.2" y="253.247079" transform="rotate(-0 133.2 253.247079)">Harry Potter - J. K. Rowling</text>
+     </g>
+    </g>
+    <g id="ytick_24">
+     <g id="line2d_54">
+      <g>
+       <use xlink:href="#m157f079246" x="140.2" y="233.546698" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_57">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="133.2" y="236.282135" transform="rotate(-0 133.2 236.282135)">Original Work</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_25">
+    <path d="M 140.2 357.814909 
+L 158.058517 357.814909 
+L 158.058517 346.787696 
+L 140.2 346.787696 
+z
+" clip-path="url(#pc5ffc674f0)" style="fill: #1baf7a"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 140.2 340.849966 
+L 158.653801 340.849966 
+L 158.653801 329.822752 
+L 140.2 329.822752 
+z
+" clip-path="url(#pc5ffc674f0)" style="fill: #1baf7a"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 140.2 323.885022 
+L 158.951443 323.885022 
+L 158.951443 312.857809 
+L 140.2 312.857809 
+z
+" clip-path="url(#pc5ffc674f0)" style="fill: #1baf7a"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 140.2 306.920078 
+L 167.583059 306.920078 
+L 167.583059 295.892865 
+L 140.2 295.892865 
+z
+" clip-path="url(#pc5ffc674f0)" style="fill: #1baf7a"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 140.2 289.955135 
+L 169.071269 289.955135 
+L 169.071269 278.927922 
+L 140.2 278.927922 
+z
+" clip-path="url(#pc5ffc674f0)" style="fill: #1baf7a"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 140.2 272.990191 
+L 173.238256 272.990191 
+L 173.238256 261.962978 
+L 140.2 261.962978 
+z
+" clip-path="url(#pc5ffc674f0)" style="fill: #1baf7a"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 140.2 256.025248 
+L 189.310922 256.025248 
+L 189.310922 244.998034 
+L 140.2 244.998034 
+z
+" clip-path="url(#pc5ffc674f0)" style="fill: #1baf7a"/>
+   </g>
+   <g id="patch_32">
+    <path d="M 140.2 239.060304 
+L 223.242104 239.060304 
+L 223.242104 228.033091 
+L 140.2 228.033091 
+z
+" clip-path="url(#pc5ffc674f0)" style="fill: #1baf7a"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 140.2 364.304 
+L 140.2 221.544 
+" style="fill: none; stroke: #52514e; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 140.2 364.304 
+L 236.13 364.304 
+" style="fill: none; stroke: #52514e; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_58">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="161.058517" y="354.232865" transform="rotate(-0 161.058517 354.232865)">1.9</text>
+   </g>
+   <g id="text_59">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="161.653801" y="337.267921" transform="rotate(-0 161.653801 337.267921)">1.9</text>
+   </g>
+   <g id="text_60">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="161.951443" y="320.302978" transform="rotate(-0 161.951443 320.302978)">2.0</text>
+   </g>
+   <g id="text_61">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="170.583059" y="303.338034" transform="rotate(-0 170.583059 303.338034)">2.9</text>
+   </g>
+   <g id="text_62">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="172.071269" y="286.373091" transform="rotate(-0 172.071269 286.373091)">3.0</text>
+   </g>
+   <g id="text_63">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="176.238256" y="269.408147" transform="rotate(-0 176.238256 269.408147)">3.4</text>
+   </g>
+   <g id="text_64">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="192.310922" y="252.443204" transform="rotate(-0 192.310922 252.443204)">5.1</text>
+   </g>
+   <g id="text_65">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="226.242104" y="235.47826" transform="rotate(-0 226.242104 235.47826)">8.7</text>
+   </g>
+   <g id="text_66">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="140.2" y="215.544" transform="rotate(-0 140.2 215.544)">‘wlw’ (n = 3,223)</text>
+   </g>
+  </g>
+  <g id="axes_4">
+   <g id="patch_35">
+    <path d="M 386.68 364.304 
+L 482.61 364.304 
+L 482.61 221.544 
+L 386.68 221.544 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_7">
+    <g id="xtick_16">
+     <g id="line2d_55">
+      <path d="M 386.68 364.304 
+L 386.68 221.544 
+" clip-path="url(#p301568c33d)" style="fill: none; stroke: #e6e5e1; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_56">
+      <g>
+       <use xlink:href="#mf3db6fa41f" x="386.68" y="364.304" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_67">
+      <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: middle; fill: #52514e" x="386.68" y="376.622906" transform="rotate(-0 386.68 376.622906)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_17">
+     <g id="line2d_57">
+      <path d="M 410.6625 364.304 
+L 410.6625 221.544 
+" clip-path="url(#p301568c33d)" style="fill: none; stroke: #e6e5e1; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_58">
+      <g>
+       <use xlink:href="#mf3db6fa41f" x="410.6625" y="364.304" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_68">
+      <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: middle; fill: #52514e" x="410.6625" y="376.622906" transform="rotate(-0 410.6625 376.622906)">2.5</text>
+     </g>
+    </g>
+    <g id="xtick_18">
+     <g id="line2d_59">
+      <path d="M 434.645 364.304 
+L 434.645 221.544 
+" clip-path="url(#p301568c33d)" style="fill: none; stroke: #e6e5e1; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_60">
+      <g>
+       <use xlink:href="#mf3db6fa41f" x="434.645" y="364.304" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_69">
+      <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: middle; fill: #52514e" x="434.645" y="376.622906" transform="rotate(-0 434.645 376.622906)">5.0</text>
+     </g>
+    </g>
+    <g id="xtick_19">
+     <g id="line2d_61">
+      <path d="M 458.6275 364.304 
+L 458.6275 221.544 
+" clip-path="url(#p301568c33d)" style="fill: none; stroke: #e6e5e1; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_62">
+      <g>
+       <use xlink:href="#mf3db6fa41f" x="458.6275" y="364.304" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_70">
+      <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: middle; fill: #52514e" x="458.6275" y="376.622906" transform="rotate(-0 458.6275 376.622906)">7.5</text>
+     </g>
+    </g>
+    <g id="xtick_20">
+     <g id="line2d_63">
+      <path d="M 482.61 364.304 
+L 482.61 221.544 
+" clip-path="url(#p301568c33d)" style="fill: none; stroke: #e6e5e1; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_64">
+      <g>
+       <use xlink:href="#mf3db6fa41f" x="482.61" y="364.304" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_71">
+      <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: middle; fill: #52514e" x="482.61" y="376.622906" transform="rotate(-0 482.61 376.622906)">10.0</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_8">
+    <g id="ytick_25">
+     <g id="line2d_65">
+      <g>
+       <use xlink:href="#m157f079246" x="386.68" y="352.301302" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_72">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="379.68" y="355.03674" transform="rotate(-0 379.68 355.03674)">Marvel Cinematic Universe</text>
+     </g>
+    </g>
+    <g id="ytick_26">
+     <g id="line2d_66">
+      <g>
+       <use xlink:href="#m157f079246" x="386.68" y="335.336359" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_73">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="379.68" y="338.071796" transform="rotate(-0 379.68 338.071796)">Avatar: The Last Airbender</text>
+     </g>
+    </g>
+    <g id="ytick_27">
+     <g id="line2d_67">
+      <g>
+       <use xlink:href="#m157f079246" x="386.68" y="318.371415" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_74">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="379.68" y="321.106853" transform="rotate(-0 379.68 321.106853)">The Owl House (Cartoon)</text>
+     </g>
+    </g>
+    <g id="ytick_28">
+     <g id="line2d_68">
+      <g>
+       <use xlink:href="#m157f079246" x="386.68" y="301.406472" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_75">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="379.68" y="304.141909" transform="rotate(-0 379.68 304.141909)">Stranger Things (TV 2016)</text>
+     </g>
+    </g>
+    <g id="ytick_29">
+     <g id="line2d_69">
+      <g>
+       <use xlink:href="#m157f079246" x="386.68" y="284.441528" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_76">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="379.68" y="287.176966" transform="rotate(-0 379.68 287.176966)">Genshin Impact (Video Game)</text>
+     </g>
+    </g>
+    <g id="ytick_30">
+     <g id="line2d_70">
+      <g>
+       <use xlink:href="#m157f079246" x="386.68" y="267.476585" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_77">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="379.68" y="270.212022" transform="rotate(-0 379.68 270.212022)">Critical Role (Web Series)</text>
+     </g>
+    </g>
+    <g id="ytick_31">
+     <g id="line2d_71">
+      <g>
+       <use xlink:href="#m157f079246" x="386.68" y="250.511641" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_78">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="379.68" y="253.247079" transform="rotate(-0 379.68 253.247079)">Harry Potter - J. K. Rowling</text>
+     </g>
+    </g>
+    <g id="ytick_32">
+     <g id="line2d_72">
+      <g>
+       <use xlink:href="#m157f079246" x="386.68" y="233.546698" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_79">
+      <text style="font-size: 7.2px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: end; fill: #52514e" x="379.68" y="236.282135" transform="rotate(-0 379.68 236.282135)">Original Work</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_36">
+    <path d="M 386.68 357.814909 
+L 403.549819 357.814909 
+L 403.549819 346.787696 
+L 386.68 346.787696 
+z
+" clip-path="url(#p301568c33d)" style="fill: #eda100"/>
+   </g>
+   <g id="patch_37">
+    <path d="M 386.68 340.849966 
+L 404.461702 340.849966 
+L 404.461702 329.822752 
+L 386.68 329.822752 
+z
+" clip-path="url(#p301568c33d)" style="fill: #eda100"/>
+   </g>
+   <g id="patch_38">
+    <path d="M 386.68 323.885022 
+L 406.741407 323.885022 
+L 406.741407 312.857809 
+L 386.68 312.857809 
+z
+" clip-path="url(#p301568c33d)" style="fill: #eda100"/>
+   </g>
+   <g id="patch_39">
+    <path d="M 386.68 306.920078 
+L 408.10923 306.920078 
+L 408.10923 295.892865 
+L 386.68 295.892865 
+z
+" clip-path="url(#p301568c33d)" style="fill: #eda100"/>
+   </g>
+   <g id="patch_40">
+    <path d="M 386.68 289.955135 
+L 409.021112 289.955135 
+L 409.021112 278.927922 
+L 386.68 278.927922 
+z
+" clip-path="url(#p301568c33d)" style="fill: #eda100"/>
+   </g>
+   <g id="patch_41">
+    <path d="M 386.68 272.990191 
+L 412.2127 272.990191 
+L 412.2127 261.962978 
+L 386.68 261.962978 
+z
+" clip-path="url(#p301568c33d)" style="fill: #eda100"/>
+   </g>
+   <g id="patch_42">
+    <path d="M 386.68 256.025248 
+L 441.848869 256.025248 
+L 441.848869 244.998034 
+L 386.68 244.998034 
+z
+" clip-path="url(#p301568c33d)" style="fill: #eda100"/>
+   </g>
+   <g id="patch_43">
+    <path d="M 386.68 239.060304 
+L 455.07116 239.060304 
+L 455.07116 228.033091 
+L 386.68 228.033091 
+z
+" clip-path="url(#p301568c33d)" style="fill: #eda100"/>
+   </g>
+   <g id="patch_44">
+    <path d="M 386.68 364.304 
+L 386.68 221.544 
+" style="fill: none; stroke: #52514e; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_45">
+    <path d="M 386.68 364.304 
+L 482.61 364.304 
+" style="fill: none; stroke: #52514e; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_80">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="406.549819" y="354.232865" transform="rotate(-0 406.549819 354.232865)">1.8</text>
+   </g>
+   <g id="text_81">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="407.461702" y="337.267921" transform="rotate(-0 407.461702 337.267921)">1.9</text>
+   </g>
+   <g id="text_82">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="409.741407" y="320.302978" transform="rotate(-0 409.741407 320.302978)">2.1</text>
+   </g>
+   <g id="text_83">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="411.10923" y="303.338034" transform="rotate(-0 411.10923 303.338034)">2.2</text>
+   </g>
+   <g id="text_84">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="412.021112" y="286.373091" transform="rotate(-0 412.021112 286.373091)">2.3</text>
+   </g>
+   <g id="text_85">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="415.2127" y="269.408147" transform="rotate(-0 415.2127 269.408147)">2.7</text>
+   </g>
+   <g id="text_86">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="444.848869" y="252.443204" transform="rotate(-0 444.848869 252.443204)">5.8</text>
+   </g>
+   <g id="text_87">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="458.07116" y="235.47826" transform="rotate(-0 458.07116 235.47826)">7.1</text>
+   </g>
+   <g id="text_88">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="386.68" y="215.544" transform="rotate(-0 386.68 215.544)">‘sapphic’ (n = 2,104)</text>
+   </g>
+  </g>
+  <g id="text_89">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #0b0b0b" x="12.096" y="14.798437" transform="rotate(-0 12.096 14.798437)">Top fandoms per label family, 2020–2022 (% of the family’s works)</text>
+  </g>
+  <g id="text_90">
+   <text style="font-size: 7.4px; font-family: 'DejaVu Sans', 'Hiragino Sans GB'; text-anchor: start; fill: #52514e" x="7.2" y="396" transform="rotate(-0 7.2 396)">Data: GOLEM, F/F-category works. Synonymous fandom tags (e.g. 原神 / Genshin Impact) merged.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pac5c005698">
+   <rect x="140.2" y="41.664" width="95.93" height="142.76"/>
+  </clipPath>
+  <clipPath id="p8e9215b7c8">
+   <rect x="386.68" y="41.664" width="95.93" height="142.76"/>
+  </clipPath>
+  <clipPath id="pc5ffc674f0">
+   <rect x="140.2" y="221.544" width="95.93" height="142.76"/>
+  </clipPath>
+  <clipPath id="p301568c33d">
+   <rect x="386.68" y="221.544" width="95.93" height="142.76"/>
+  </clipPath>
+ </defs>
+</svg>

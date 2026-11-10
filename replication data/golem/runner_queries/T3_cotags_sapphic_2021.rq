@@ -1,0 +1,13 @@
+# T3_cotags_sapphic_2021: co-tags (>= 3 works) of this family's F/F works in this year.
+# Purpose: tags that distinguish the families (RQ2); input for weighted log-odds. Used in: Figs. 5-6.
+PREFIX golem: <https://golemlab.eu/graph/>
+SELECT ?co (COUNT(DISTINCT ?s) AS ?n) WHERE {
+  ?s golem:romanticCategory "F/F" ; golem:datePublished ?d .
+  FILTER(STRSTARTS(STR(?d), "2021"))
+  ?s golem:keyword ?kw .
+  BIND(LCASE(STR(?kw)) AS ?k)
+  FILTER(CONTAINS(?k, "sapphic"))
+  ?s golem:keyword ?co .
+}
+GROUP BY ?co HAVING (COUNT(DISTINCT ?s) >= 3)
+ORDER BY DESC(?n)

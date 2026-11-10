@@ -1,0 +1,12 @@
+# q2b: Works per year with one of ten 'sapphic' tags, and how many of them carry F/F. Exploratory; superseded by runner task T2.
+# Result: ../adhoc_results/q2b.csv
+PREFIX golem: <https://golemlab.eu/graph/>
+SELECT ?year (COUNT(DISTINCT ?s) AS ?labelled) (COUNT(DISTINCT ?ff) AS ?labelled_and_FF) WHERE {
+  VALUES ?kw { "Sapphic" "Sapphics" "Sapphic September" "Sapphic September 2017"
+               "Sapphic September 2018" "Sapphic September 2022" "sapphic yearning"
+               "sapphic romance - Freeform" "sapphic relationship" "sapphic love" }
+  ?s golem:keyword ?kw ; golem:datePublished ?d .
+  BIND(SUBSTR(STR(?d),1,4) AS ?year)
+  OPTIONAL { ?s golem:romanticCategory "F/F" . BIND(?s AS ?ff) }
+}
+GROUP BY ?year ORDER BY ?year

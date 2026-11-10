@@ -1,0 +1,9 @@
+# q6b: F/F works of 2021 whose summary mentions 'Sappho'.
+# Result: ../adhoc_results/q6b.csv
+PREFIX golem: <https://golemlab.eu/graph/>
+SELECT (COUNT(DISTINCT ?s) AS ?n) WHERE {
+  ?s golem:romanticCategory "F/F" ; golem:datePublished ?d .
+  FILTER(STRSTARTS(STR(?d), "2021"))
+  ?s golem:summary ?sum .
+  FILTER(CONTAINS(LCASE(STR(?sum)), "sappho"))
+}

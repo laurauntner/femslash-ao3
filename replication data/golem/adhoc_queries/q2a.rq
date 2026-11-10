@@ -1,0 +1,13 @@
+# q2a: Inventory of label-type freeform tags within F/F works of 2021 (pattern search).
+# Result: ../adhoc_results/q2a.csv
+PREFIX golem: <https://golemlab.eu/graph/>
+SELECT ?kw (COUNT(DISTINCT ?s) AS ?n) WHERE {
+  ?s golem:romanticCategory "F/F" ; golem:datePublished ?d .
+  FILTER(STRSTARTS(STR(?d), "2021"))
+  ?s golem:keyword ?kw .
+  FILTER(CONTAINS(LCASE(STR(?kw)), "femslash") || CONTAINS(LCASE(STR(?kw)), "sapphic")
+      || CONTAINS(LCASE(STR(?kw)), "wlw")      || CONTAINS(LCASE(STR(?kw)), "yuri")
+      || CONTAINS(LCASE(STR(?kw)), "baihe")    || CONTAINS(STR(?kw), "百合")
+      || CONTAINS(LCASE(STR(?kw)), "lesbian")  || CONTAINS(LCASE(STR(?kw)), "women loving women"))
+}
+GROUP BY ?kw ORDER BY DESC(?n)

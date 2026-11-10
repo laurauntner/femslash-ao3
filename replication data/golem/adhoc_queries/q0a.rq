@@ -1,0 +1,5 @@
+# q0a: Number of works per value of golem:romanticCategory (all years).
+# Result: ../adhoc_results/q0a.csv
+PREFIX golem: <https://golemlab.eu/graph/>
+SELECT ?cat (COUNT(DISTINCT ?s) AS ?n) WHERE { ?s golem:romanticCategory ?cat . }
+GROUP BY ?cat ORDER BY DESC(?n)

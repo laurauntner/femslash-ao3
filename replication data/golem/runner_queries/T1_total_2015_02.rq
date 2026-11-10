@@ -1,0 +1,7 @@
+# T1_total_2015_02: all works published in this month.
+# Purpose: denominator of the F/F share; documents the 2022 cut-off. Used in: Fig. 2.
+PREFIX golem: <https://golemlab.eu/graph/>
+SELECT (COUNT(DISTINCT ?s) AS ?n) WHERE {
+  VALUES ?d { "2015-02-01" "2015-02-02" "2015-02-03" "2015-02-04" "2015-02-05" "2015-02-06" "2015-02-07" "2015-02-08" "2015-02-09" "2015-02-10" "2015-02-11" "2015-02-12" "2015-02-13" "2015-02-14" "2015-02-15" "2015-02-16" "2015-02-17" "2015-02-18" "2015-02-19" "2015-02-20" "2015-02-21" "2015-02-22" "2015-02-23" "2015-02-24" "2015-02-25" "2015-02-26" "2015-02-27" "2015-02-28" }
+  ?s golem:datePublished ?d .
+}

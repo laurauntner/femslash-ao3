@@ -1,0 +1,4 @@
+# q0b: Format and datatype of golem:datePublished (sample).
+# Result: ../adhoc_results/q0b.csv
+PREFIX golem: <https://golemlab.eu/graph/>
+SELECT ?d (DATATYPE(?d) AS ?type) WHERE { ?s golem:datePublished ?d . } LIMIT 5

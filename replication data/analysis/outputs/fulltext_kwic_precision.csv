@@ -1,0 +1,32 @@
+group,label,matches_coded,correct,precision_pct
+epithet,'tenth Muse',10,8,80.0
+epithet,(all patterns in group),10,8,80.0
+figure,(all patterns in group),68,67,98.5
+figure,Alkaios,10,10,100.0
+figure,Anaktoria,10,10,100.0
+figure,Atthis,10,10,100.0
+figure,Charaxos,10,10,100.0
+figure,Gongyla,8,8,100.0
+figure,Kleis,10,10,100.0
+figure,Phaon,10,9,90.0
+mention,(all patterns in group),10,10,100.0
+mention,Sappho,10,10,100.0
+place,(all patterns in group),20,19,95.0
+place,Lesbos,10,9,90.0
+place,"Mytilene, Eresos",10,10,100.0
+quotation,'I cannot weave',10,10,100.0
+quotation,'greener than grass',10,10,100.0
+quotation,'loosener of limbs',10,9,90.0
+quotation,'someone will remember us',10,9,90.0
+quotation,'sweetbitter',10,10,100.0
+quotation,'the moon has set',5,5,100.0
+quotation,'thin fire under the skin',10,9,90.0
+quotation,'tongue is broken',10,10,100.0
+quotation,'violet-' epithets,2,2,100.0
+quotation,(all patterns in group),77,74,96.1
+source,'Fragment/Poem N … Sappho',2,2,100.0
+source,"'Sappho, Fragment/Poem N'",10,10,100.0
+source,(all patterns in group),42,42,100.0
+source,attribution line ('— Sappho'),10,10,100.0
+source,named poem,10,10,100.0
+source,translator or edition,10,10,100.0

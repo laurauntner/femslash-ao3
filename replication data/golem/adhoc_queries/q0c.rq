@@ -1,0 +1,7 @@
+# q0c: All predicates of two sample works (schema check). The result is published only as a redacted predicate list (q0c_predicates_redacted.csv).
+# Result: ../adhoc_results/q0c_predicates_redacted.csv
+PREFIX golem: <https://golemlab.eu/graph/>
+SELECT ?s ?p ?o WHERE {
+  { SELECT ?s WHERE { ?s golem:fandom "Good Omens (TV)" . } LIMIT 2 }
+  ?s ?p ?o .
+}

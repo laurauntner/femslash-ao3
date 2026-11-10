@@ -1,0 +1,13 @@
+# T6_sapphic_x_lesbian_2021: F/F works carrying tags of both families, this year.
+# Purpose: whether the families are used by the same works (RQ2). Used in: Fig. 8.
+PREFIX golem: <https://golemlab.eu/graph/>
+SELECT (COUNT(DISTINCT ?s) AS ?works) WHERE {
+  ?s golem:romanticCategory "F/F" ; golem:datePublished ?d .
+  FILTER(STRSTARTS(STR(?d), "2021"))
+  ?s golem:keyword ?kw1 .
+  BIND(LCASE(STR(?kw1)) AS ?k)
+  FILTER(CONTAINS(?k, "sapphic"))
+  ?s golem:keyword ?kw2 .
+  BIND(LCASE(STR(?kw2)) AS ?k2)
+  FILTER(CONTAINS(?k2, "lesbian"))
+}

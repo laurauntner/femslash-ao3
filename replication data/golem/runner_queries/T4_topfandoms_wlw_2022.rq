@@ -1,0 +1,12 @@
+# T4_topfandoms_wlw_2022: top 40 fandoms of this family in this year.
+# Purpose: which fandoms use the family (RQ2). Used in: Fig. 9.
+PREFIX golem: <https://golemlab.eu/graph/>
+SELECT ?x (COUNT(DISTINCT ?s) AS ?n) WHERE {
+  ?s golem:romanticCategory "F/F" ; golem:datePublished ?d .
+  FILTER(STRSTARTS(STR(?d), "2022"))
+  ?s golem:keyword ?kw .
+  BIND(LCASE(STR(?kw)) AS ?k)
+  FILTER(REGEX(?k, "(^|[^a-z])wlw([^a-z]|$)") || CONTAINS(?k, "women loving women"))
+  ?s golem:fandom ?x .
+}
+GROUP BY ?x ORDER BY DESC(?n) LIMIT 40

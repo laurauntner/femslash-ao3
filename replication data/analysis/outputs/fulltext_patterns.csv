@@ -1,0 +1,30 @@
+group,label,regex
+mention,Sappho,\bsappho'?s?\b|\bsapphô\b|\bsapfo\b|\bsaffo\b|\bpsappha\b|σαπφ|ψάπφ|ψαπφ|サッフォー|萨福|사포
+source,attribution line ('— Sappho'),(?m)^[ \t]*[-–—~―]+[ \t]*(sappho|sapphô)\b
+source,"'Sappho, Fragment/Poem N'","\bsappho\b[^\n.]{0,15}\b(fragment|frag\.|fr\.|poem|ode|lp|voigt)\s*\d+"
+source,'Fragment/Poem N … Sappho',"\b(fragment|frag\.|fr\.|poem)\s*\d+[^\n]{0,40}\bsappho\b"
+source,named poem,hymn to aphrodite|ode to aphrodite|brothers poem|tithonus poem|ode to anactoria|ode to anaktoria
+source,translator or edition,"anne carson|mary barnard|willis barnstone|diane (j\.? )?rayor|philip freeman|josephine balmer|aaron poochigian|guy davenport|stanley lombardo|julia dubnoff|jim powell|m\. ?l\. ?west|h\. ?t\. ?wharton|richmond lattimore|sam hamill|paul roche|if not,? winter"
+quotation,'sweetbitter',sweet[- ]?bitter|glukupikron|γλυκύπικρον
+quotation,'loosener of limbs',loosener of limbs|limb[- ]?loosen|loosens? (my|the|her) limbs
+quotation,'the moon has set',the moon has set|moon (has|is) set and the pleiades
+quotation,'someone will remember us',"(will|shall) remember us|in another time.{0,20}remember"
+quotation,'tongue is broken',tongue (is |breaks|snaps|has )?(broken|break|snapped)|my tongue breaks
+quotation,'thin fire under the skin',"(thin|subtle|delicate) fire.{0,30}(skin|flesh)|fire races under"
+quotation,'greener than grass',greener than (the )?grass|paler than grass
+quotation,'I cannot weave',i cannot weave|cannot work my loom|cannot do my weaving
+epithet,'tenth Muse',tenth muse
+quotation,'violet-' epithets,violet[- ](haired|tressed|crowned|weaving|robed|lapped)
+figure,Atthis,\batthis\b
+figure,Anaktoria,\banak?ctoria\b|\banaktoria\b
+figure,Gongyla,\bgongyla\b
+figure,Kleis,\bc?kleis\b|\bcleis\b
+figure,Charaxos,\bcharax(os|us)\b
+figure,Alkaios,\balc?kaeus\b|\balkaios\b|\balcaeus\b
+figure,Phaon,\bphaon\b
+place,Lesbos,\blesbos\b|\blesvos\b|\blesbian island\b
+place,"Mytilene, Eresos",\bmytilene\b|\bmitilini\b|\beress?os\b
+myth,Aphrodite,\baphrodite'?s?\b|\bcypris\b|\bkypris\b|\bcytherea\b
+label,'sapphic',\bsapphics?\b
+label,'lesbian(s)',\blesbians?\b
+greek,Greek script (≥ 10 letters),"[Ͱ-Ͽἀ-῿][Ͱ-Ͽἀ-῿\s,.;·]{9,}"

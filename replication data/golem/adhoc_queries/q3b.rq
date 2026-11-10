@@ -1,0 +1,8 @@
+# q3b: Top 25 authors (anonymised IDs) for 'Sapphic'/'Sapphics'. Exploratory; superseded by runner task T4.
+# Result: ../adhoc_results/q3b.csv
+PREFIX golem: <https://golemlab.eu/graph/>
+SELECT ?a (COUNT(DISTINCT ?s) AS ?n) WHERE {
+  VALUES ?kw { "Sapphic" "Sapphics" }
+  ?s golem:keyword ?kw ; golem:author ?a .
+}
+GROUP BY ?a ORDER BY DESC(?n) LIMIT 25

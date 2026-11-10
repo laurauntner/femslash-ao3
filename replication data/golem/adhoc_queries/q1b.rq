@@ -1,0 +1,9 @@
+# q1b: Works carrying F/F as their only category, per year.
+# Result: ../adhoc_results/q1b.csv
+PREFIX golem: <https://golemlab.eu/graph/>
+SELECT ?year (COUNT(DISTINCT ?s) AS ?ff_only) WHERE {
+  ?s golem:romanticCategory "F/F" ; golem:datePublished ?d .
+  FILTER NOT EXISTS { ?s golem:romanticCategory ?other . FILTER(?other != "F/F") }
+  BIND(SUBSTR(STR(?d),1,4) AS ?year)
+}
+GROUP BY ?year ORDER BY ?year

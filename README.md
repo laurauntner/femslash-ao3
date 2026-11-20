@@ -1,6 +1,6 @@
-# From Femslash to Lesbian
+# From ‘Femslash’ to ‘Lesbian’
 
-Replication data and figures for *From Femslash to Lesbian: Marking Female
+Replication data and figures for *From ‘Femslash’ to ‘Lesbian’: Marking Female
 Same-Sex Desire on AO3, with Sappho as a Case Study* by Laura Untner and Anastasia Glawion (DH 2027, Glasgow).
 
 - `replication data/` – SPARQL queries and results, derived data, analysis and figure scripts (see its README)
